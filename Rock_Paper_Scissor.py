@@ -1,6 +1,4 @@
-# File: 2252_McnamaraJ_Lesson4#_InLab.py
 # Name: Rock Paper Scissor
-# Author: Joseph McNamara
 # Date: April 18, 2021
 # Purpose: This program replicates the game Rock,
 # Paper, Scissor, with a focus on building with functions.

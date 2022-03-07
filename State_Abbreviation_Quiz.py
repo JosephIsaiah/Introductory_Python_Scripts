@@ -1,6 +1,4 @@
-# File: 2252_McnamaraJ_Lesson6#_InLab.py
 # Name: State Abbreviation Quiz
-# Author: Joseph McNamara
 # Date: April 30, 2021
 # Purpose: This program shows the user a random state name abbreviation and asks 
 # the user to spell the full state name. The program then provides a score of right 

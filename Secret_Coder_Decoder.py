@@ -1,6 +1,4 @@
-# File: 2252_McnamaraJ_Lesson5#_InLab.py
 # Name: Secret Coder
-# Author: Joseph McNamara
 # Date: April 24, 2021
 # Purpose: This program encodes / decodes a users message. 
 # For fun I built this using an easy key:value pattern and a single key password. 

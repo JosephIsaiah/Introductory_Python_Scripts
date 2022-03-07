@@ -1,6 +1,4 @@
-# File: 2252_McNamaraJ_Final.py
 # Name: Bob's Tavern Trivia Game
-# Author: Joseph McNamara
 # Date: May 11, 2021
 # Purpose: This 'trivia game' uses a dictionary of trivia questions in key / value format. 
 # It converts the keys to a list, allows the user to determine how many questions they want to challenge, 

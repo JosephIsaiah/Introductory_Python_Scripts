@@ -1,6 +1,4 @@
-# File: 2252_McnamaraJ_Lesson2#_InLab.py 
 # Name: Python Rocks Amusement
-# Author: Joseph McNamara 
 # Date: March 29, 2021
 # Purpose: Welcome guests to the amusement park, 
 # determine the guest's height in inches, 

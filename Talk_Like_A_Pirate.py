@@ -1,6 +1,4 @@
-# File: 2252_McnamaraJ_Lesson5#_GrLab.py
 # Name: Talk like a pirate
-# Author: Joseph McNamara
 # Date: April 24, 2021
 # Purpose: This program takes user inputed words 
 # and converts them to a fictionalized pirate dialect.

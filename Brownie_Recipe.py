@@ -1,6 +1,4 @@
-# File: 2252_McnamaraJ_Lesson1#_InLab.py 
 # Name: Brownie Recipe
-# Author: Joseph McNamara 
 # Date: March 22, 2021
 # Purpose: This program provides the amount of ingredients needed per brownie. 
 # Eggs are kept as integers to prevent the need of partial eggs. 
